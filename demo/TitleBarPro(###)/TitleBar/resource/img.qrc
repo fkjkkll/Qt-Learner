@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>close.png</file>
+        <file>close_red.png</file>
+        <file>close1.png</file>
+        <file>close2.png</file>
+        <file>huanyuan.png</file>
+        <file>img.qrc</file>
+        <file>max.png</file>
+        <file>max1.png</file>
+        <file>max2.png</file>
+        <file>max3.png</file>
+        <file>min1.png</file>
+        <file>min2.png</file>
+        <file>mysql.png</file>
+    </qresource>
+</RCC>
